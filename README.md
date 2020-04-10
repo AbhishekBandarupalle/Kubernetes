@@ -26,6 +26,7 @@ K8s v/s openshift: https://www.openshift.com/container-platform/kubernetes.html
 K8s HA: https://kubernetes.io/docs/admin/high-availability/
 
 
+
 # Chapter 01_04
 Bitnami survey: http://blog.bitnami.com/2017/08/container-trends-part2.html
 Rancher: https://github.com/rancher/rancher#installation
